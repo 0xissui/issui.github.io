@@ -1,9 +1,10 @@
-## Welcome to issui's portfolio
+## About Me
 
-Here you can find all of my best work and projects. 
+Hey there! I'm issui, a web3 analyst. I focus on DeFi analytics, and more specifically on Ethereum, L2 Rollups, and Near. 
+Thanks for checking out my page!
 
-### Dashboards
+## Dashboards
 
-Dashboard that I have created for various protocols or chains, using data providers such as Flipside and Dune. 
+Here you can find all of my best work that I have done on various protocols and chains, using data from providers such as Flipside and Dune. 
 
 
