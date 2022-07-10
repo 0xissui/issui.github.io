@@ -8,3 +8,4 @@ Thanks for checking out my page!
 Here you can find all of my best work that I have done on various protocols and chains, using data from providers such as Flipside and Dune. 
 
 - [Dune Lido stETH Dashboard](https://dune.com/issui/lido-steth)
+- [Flipside Bounty: Celsius Wallet Analysis](https://app.flipsidecrypto.com/dashboard/celsius-wallets-OrLibh)
