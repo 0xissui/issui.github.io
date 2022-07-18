@@ -14,6 +14,8 @@ Here you can find all of my best work that I have done on various protocols and 
 
 ## Writing / Research
 
+- [Messari Research Report: Synapse Protocol](https://docs.google.com/document/d/17QoXpcjkEiry-U_CcN8NNRILj23nKoOINIJUtLlmcJU/edit?usp=sharing)
+- [Messari Research Report: QiDAO](https://docs.google.com/document/d/1zSnnc5RwCPSohWvP_vvP8mOhpUbbSzY2_S71bztnGPE/edit?usp=sharing)
 - [Messari Research Report: TreasureDAO](https://docs.google.com/document/d/1CYFFHPoLYBL1xA2yXVdqz2iLmXf2dO_QfRM0B12JAnk/edit?usp=sharing)
 - [Exploring Stable Assets: A Summary](https://mirror.xyz/0x4D857CB2D42fCAc500aC915C18A35720E4efBE70/lXKL0PDWB2bRlfaxXqSXB3IcBcKwQOPWnCVYhhtQJOA)
 
