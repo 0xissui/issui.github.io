@@ -10,6 +10,7 @@ Here you can find all of my best work that I have done on various protocols and 
 
 - [Dune Lido stETH Dashboard](https://dune.com/issui/lido-steth)
 - [Flipside Bounty: Celsius Wallet Analysis](https://app.flipsidecrypto.com/dashboard/celsius-wallets-OrLibh)
+- [Flipside Bounty: Optimisim Wallet and Bridge Analysis](https://app.flipsidecrypto.com/dashboard/optimism-bridge-VoVBkC)
 
 ## Writing / Research
 
