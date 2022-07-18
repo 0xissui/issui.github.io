@@ -1,6 +1,7 @@
 ## About Me
 
-Hey there! I'm issui, a Web3 analyst. I focus on DeFi analytics, on chains such as Ethereum, L2 Rollups, and Near. 
+Hey there! I'm issui, a Web3 analyst. I focus on DeFi analytics, with chains such as Ethereum, L2 Rollups, and Near. 
+
 Thanks for checking out my page!
 
 ## Dashboards
